@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregoryjohncarter
 - 👀 I’m interested in ... learning code foundations with the web dev boot camp @UConn
-- 🌱 I’m currently learning ... object-oriented programming
+- 🌱 I’m currently learning ... MySQL
 - 💞️ I’m looking to collaborate on ... homework and assignments.
 - 📫 How to reach me ... email me on Gmail <gregoryjohncarter>. 
 
