@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gregoryjohncarter
-- 👀 I’m interested in ... learning code foundations with the web dev boot camp @UConn
-- 🌱 I’m currently learning ... MySQL
+- 👀 I’m interested in ... learning during the UConn web dev. boot camp 2021-2022
+- 🌱 I’m currently learning ... Model-view-controller / Handlebars
 - 💞️ I’m looking to collaborate on ... homework and assignments.
-- 📫 How to reach me ... email me on Gmail <gregoryjohncarter>. 
+- 📫 How to reach me ... email me on Gmail @gregoryjohncarter. 
 
 <!---
 gregoryjohncarter/gregoryjohncarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
