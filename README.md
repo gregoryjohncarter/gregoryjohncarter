@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregoryjohncarter
 - 👀 I’m interested in ... learning during the UConn web dev. boot camp 2021-2022
-- 🌱 I’m currently learning ... Model-view-controller / Handlebars
+- 🌱 I’m currently learning ... NoSQL and MongoDB
 - 💞️ I’m looking to collaborate on ... homework and assignments.
 - 📫 How to reach me ... email me on Gmail @gregoryjohncarter. 
 
