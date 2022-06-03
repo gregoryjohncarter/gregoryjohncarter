@@ -1,9 +1,12 @@
-Thanks for taking an interest in my GitHub profile. Of the projects listed, the substantial amount of them are derived from the various challenge assignments and module content from an online course which was undertaken to learn web development (UConn Coding Boot Camp 2021-2022). More projects will be added as my scope for learning materials is broadened. 
+## Portraying my code how I can, where I find it's ready to go. 
 
-## New materials which I am interested in:
-alternative frameworks to React (Angular, Vue, Ember), Tailwind CSS
-## Recent skills which I have expanded upon: 
-React, MongoDB, Apollo Client
+During many tutorial projects that I have undertaken, I often sought out my best positive outlook. Some varieties of tech stack being portrayed here include MERN or React, Node.js/Inquirer, Handlebars template, and some Codecademy projects. Much code here was sourced from learning materials provided by a boot camp experience that I have recently completed. 
+
+### In the works:
+- studying React
+- algorithms
+- reviewing previously covered topics via Codecademy
+- intro to Python
 
 <!---
 gregoryjohncarter/gregoryjohncarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
