@@ -1,12 +1,6 @@
 ## Portraying my code how I can, where I find it's ready to go. 
 
-During many tutorial projects that I have undertaken, I often sought out my best positive outlook. Some varieties of tech stack being portrayed here include MERN or React, Node.js/Inquirer, Handlebars template, and some Codecademy projects. Much code here was sourced from learning materials provided by a boot camp experience that I have recently completed. 
-
-### In the works:
-- studying React
-- algorithms
-- reviewing previously covered topics via Codecademy
-- intro to Python
+While making new projects, I'm often seeking out my best positive outlook. A variety of functional tech stack can be found here - including MERN, Inquirer CLI apps, REST API/Express back ends, Handlebars templating, and some Python. Much code here was sourced from learning materials provided by a boot camp program, other projects involve structures which were sourced from Codecademy.
 
 <!---
 gregoryjohncarter/gregoryjohncarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
